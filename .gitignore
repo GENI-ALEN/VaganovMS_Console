@@ -100,7 +100,8 @@ StyleCopReport.xml
 *.pdf
 VaganovMS
 !VaganovMS.pdf
-
+/bin
+/obj
 
 # Chutzpah Test files
 _Chutzpah*
