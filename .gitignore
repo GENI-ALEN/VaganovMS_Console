@@ -99,6 +99,8 @@ StyleCopReport.xml
 *.scc
 *.pdf
 VaganovMS
+!VaganovMS.pdf
+
 
 # Chutzpah Test files
 _Chutzpah*
