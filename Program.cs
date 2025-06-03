@@ -25,6 +25,6 @@
     }
 }
 //VaganovMS Am-1-24
-//solve task3
 //new_feature
 //solve task2
+//solve task3
